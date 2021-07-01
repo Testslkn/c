@@ -1,0 +1,13 @@
+Rank
+Name
+State
+2021 Pop. 
+2010 Census
+Change
+Density (mi²)
+Area (mi²)
+1	New York City	New York	8,230,290	8,190,210		4,083	300
+2	Los Angeles	California	3,983,540	3,795,510		1,266	469
+3	Chicago	Illinois	2,679,080	2,697,480		1,756	227
+4	Houston	Texas	2,323,660	2,100,280		541	640
+5	Phoenix	Arizona	1,733,630	1,449,040		499	518
